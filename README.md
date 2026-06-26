@@ -13,7 +13,7 @@ This repository contains my literature review on AI-based predictive maintenance
 I received a Certificate of Appreciation for my contribution to this literature review.
 
 Certificate available in:
-certificate/Certificate_of_Appreciation.png
+certificate/Sifat Bhatia.png
 
 > Note:
 > This certificate recognizes my contribution to the research work. It is **not** a publication acceptance certificate.
